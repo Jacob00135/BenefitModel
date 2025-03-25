@@ -1,0 +1,12 @@
+**/__pycache__/
+**/.idea/
+zoom_MRI_npy
+**/项目构成.txt
+**/*.log
+**/checkpoints/
+**/datasets/train.csv
+**/datasets/test.csv
+**/eval_plot/
+**/eval_result/
+**/predict_result/
+ARP_2D_CNN/datasets/2d_mri/
