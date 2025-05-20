@@ -10,3 +10,4 @@ zoom_MRI_npy
 **/eval_result/
 **/predict_result/
 ARP_2D_CNN/datasets/2d_mri/
+global_eval_plot/
