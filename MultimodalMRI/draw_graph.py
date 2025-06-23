@@ -142,6 +142,5 @@ if __name__ == '__main__':
         pic.config('{} {}'.format(base_model_name, index_name), index_name)
     plt.tight_layout()
     pic.save('{}.png'.format(base_model_name))
-        # pic.save('{}_{}.png'.format(base_model_name, index_name))
-        # plt.show()
-        # pic.close()
+    pic.close()
+
